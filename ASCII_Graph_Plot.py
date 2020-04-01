@@ -1,14 +1,13 @@
+# ASCII GRAPH PLOTTER
+# Author: Elisha Phillips 
+
+# Limiting values:
+#  max_functions- number of user functions you can enter to graph
+#  max_range- sets the size of the graph that is displayed
+
 import sys
 from time import sleep
 
-'''
-Limiting values:
-
-max_functions- number of user functions you can enter to graph
-
-max_range- sets the size of the graph that is displayed
-
-'''
 max_functions = 3
 max_range = 61
 
