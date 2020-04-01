@@ -8,8 +8,9 @@ About:
 Features:
 >This program 'draws' out a plain text Cartesian graph and plots the nearest corresponding points on the graph based on the inputted functions. In addition, you can select the displayed colors for the individual functions.  
 >Example output:  
-    For: *1. f(x) = x**2*  
-         *2. f(x) = 2*x*  
+   
+>  1. *f(x) = x****2*  
+>  2. *f(x) = 2***x*    
   
      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | . . . . . . . . . . . . . . X . . . . . . . . . . . . . . .  
      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
