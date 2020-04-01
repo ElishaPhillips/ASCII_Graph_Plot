@@ -3,7 +3,7 @@
 
 About:
 
->This is just a fun little program I wrote! I'm brand new to Python, and have been working through Andrei Neagoie's ZTM Complete Python Developer in 2020 course for about a month before I wrote this. 
+>This is just a fun little program I wrote! I'm brand new to Python, and have been working through Andrei Neagoie's ZTM Complete Python Developer in 2020 course for about a month before I wrote this. It's definitely not perfect, or the most efficient way to do things, but I think it's pretty neat (: 
 
 Features:
 >This program 'draws' out a plain text Cartesian graph and plots the nearest corresponding points on the graph based on the inputted functions. In addition, you can select the displayed colors for the individual functions.  
